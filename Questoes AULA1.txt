@@ -1,0 +1,37 @@
+1- Descreva três objetivos para a criação de teste de software.
+* Encontrar Bugs e resove-los;
+* Evitar custos oz suporte;
+* Determinar cenários seguros de uso do produto.
+
+2- Cite 3 itens de um software que podemos testar.
+* Segurança;
+* Performance;
+* Interface gráfica.
+
+3- Podemos afirmar que o teste de software é uma etapa dentro do desenvolvimento de sistemas ? E porque ?
+Sim, pois tem como objetivo revelar bugs e corrigi-los antes de uma versão final do produto.
+
+4- Quem são as pessoas responsáveis por realizar o teste de software ?
+Os devenvolvedores, testadores e usuários.
+
+5- Quais as etapas para a criação de um teste ?
+Para a criação de testes, deve-se realizar um roteiro de teste.
+
+6- Modele dois casos de testes, baseado nas histórias abaixo.
+a) História A: validar o campo taxa de juros, onde os valores válidos são entre 5 a 20. Aceitar somente números.
+CT1		taxa de juros validos		5 a 20(somento numeros)		taxa ok
+CT2		taxa de juros invalidos		valores < 5 e valores > 20		taxa invalida
+
+b) História B: validar o campo nome, onde é aceito somente valores entre 3 a 50 caracteres. Não aceitar números ou caracteres inválidos no texto. 
+CT1		campo nome validos		de 3 a 50 caracteres(menos numeros)		nome validos
+CT2		campo nome invalidos	caracters < 3 e caracteres > 50			nome invalido		
+
+7- Porque chamamos de caixa preta um teste funcional ?
+Damos atenção às entradas e suas saídas, e não interessando a implementação.
+
+8- Uma escola considera as notas dos alunos como válidas, valores entre 0 a 10. Quais são as alternativas de valores, para cada partição equivalente. 
+ B:  2,-8,11
+
+ 
+9- Considerando um mês de 30 dias, quais seriam os valores limites 
+0, 1    30, 31

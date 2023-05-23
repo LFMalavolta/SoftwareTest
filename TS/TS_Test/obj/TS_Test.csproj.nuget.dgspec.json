@@ -1,0 +1,166 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Aulas Rodosoft\\GitHub\\TesteSoftware\\TS\\TS_Test\\TS_Test.csproj": {}
+  },
+  "projects": {
+    "D:\\Aulas Rodosoft\\GitHub\\TesteSoftware\\TS\\TS\\TS.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Aulas Rodosoft\\GitHub\\TesteSoftware\\TS\\TS\\TS.csproj",
+        "projectName": "TS",
+        "projectPath": "D:\\Aulas Rodosoft\\GitHub\\TesteSoftware\\TS\\TS\\TS.csproj",
+        "packagesPath": "C:\\Users\\Lorenzo\\.nuget\\packages\\",
+        "outputPath": "D:\\Aulas Rodosoft\\GitHub\\TesteSoftware\\TS\\TS\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Lorenzo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "\\\\192.168.0.11\\Desenvolvimento\\Nuget-Rodosoft\\Projetos": {},
+          "\\\\192.168.0.11\\Publico\\Nicolas\\bpecentral\\packages": {},
+          "\\\\192.168.0.11\\Publico\\packagesRodoCheckinAPI\\packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Aulas Rodosoft\\GitHub\\TesteSoftware\\TS\\TS_Test\\TS_Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Aulas Rodosoft\\GitHub\\TesteSoftware\\TS\\TS_Test\\TS_Test.csproj",
+        "projectName": "TS_Test",
+        "projectPath": "D:\\Aulas Rodosoft\\GitHub\\TesteSoftware\\TS\\TS_Test\\TS_Test.csproj",
+        "packagesPath": "C:\\Users\\Lorenzo\\.nuget\\packages\\",
+        "outputPath": "D:\\Aulas Rodosoft\\GitHub\\TesteSoftware\\TS\\TS_Test\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Lorenzo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "\\\\192.168.0.11\\Desenvolvimento\\Nuget-Rodosoft\\Projetos": {},
+          "\\\\192.168.0.11\\Publico\\Nicolas\\bpecentral\\packages": {},
+          "\\\\192.168.0.11\\Publico\\packagesRodoCheckinAPI\\packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "D:\\Aulas Rodosoft\\GitHub\\TesteSoftware\\TS\\TS\\TS.csproj": {
+                "projectPath": "D:\\Aulas Rodosoft\\GitHub\\TesteSoftware\\TS\\TS\\TS.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.5.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.18.4, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.3, )"
+            },
+            "NUnit.Analyzers": {
+              "target": "Package",
+              "version": "[3.6.1, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.4.2, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+D:\Aulas Rodosoft\GitHub\TesteSoftware\TS\TS\bin\Debug\net7.0\TS.exe
+D:\Aulas Rodosoft\GitHub\TesteSoftware\TS\TS\bin\Debug\net7.0\TS.deps.json
+D:\Aulas Rodosoft\GitHub\TesteSoftware\TS\TS\bin\Debug\net7.0\TS.runtimeconfig.json
+D:\Aulas Rodosoft\GitHub\TesteSoftware\TS\TS\bin\Debug\net7.0\TS.dll
+D:\Aulas Rodosoft\GitHub\TesteSoftware\TS\TS\bin\Debug\net7.0\TS.pdb
+D:\Aulas Rodosoft\GitHub\TesteSoftware\TS\TS\obj\Debug\net7.0\TS.csproj.AssemblyReference.cache
+D:\Aulas Rodosoft\GitHub\TesteSoftware\TS\TS\obj\Debug\net7.0\TS.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aulas Rodosoft\GitHub\TesteSoftware\TS\TS\obj\Debug\net7.0\TS.AssemblyInfoInputs.cache
+D:\Aulas Rodosoft\GitHub\TesteSoftware\TS\TS\obj\Debug\net7.0\TS.AssemblyInfo.cs
+D:\Aulas Rodosoft\GitHub\TesteSoftware\TS\TS\obj\Debug\net7.0\TS.csproj.CoreCompileInputs.cache
+D:\Aulas Rodosoft\GitHub\TesteSoftware\TS\TS\obj\Debug\net7.0\TS.dll
+D:\Aulas Rodosoft\GitHub\TesteSoftware\TS\TS\obj\Debug\net7.0\refint\TS.dll
+D:\Aulas Rodosoft\GitHub\TesteSoftware\TS\TS\obj\Debug\net7.0\TS.pdb
+D:\Aulas Rodosoft\GitHub\TesteSoftware\TS\TS\obj\Debug\net7.0\TS.genruntimeconfig.cache
+D:\Aulas Rodosoft\GitHub\TesteSoftware\TS\TS\obj\Debug\net7.0\ref\TS.dll
